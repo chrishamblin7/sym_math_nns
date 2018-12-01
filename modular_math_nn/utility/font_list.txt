@@ -1,0 +1,85 @@
+Abyssinica SIL
+Bitstream Charter
+Bitstream Vera Sans
+Bitstream Vera Sans Mono
+Bitstream Vera Serif
+Century Schoolbook L
+Clean
+ClearlyU
+ClearlyU Alternate Glyphs
+Courier 10 Pitch
+cursor.pcf
+deccurs
+decsess.pcf
+DejaVu Sans
+DejaVu Sans Mono
+DejaVu Serif
+Dingbats
+Fixed
+FreeMono
+FreeSerif
+Garuda
+Khmer OS
+Khmer OS System
+Kinnari
+Laksaman
+Lato
+Lato Black
+Lato Light
+Lato Medium
+Lato Semibold
+Lato Thin
+Liberation Mono
+Liberation Sans
+Liberation Sans Narrow
+Liberation Serif
+Loma
+micro.pcf
+NanumBarunGothic
+NanumGothic
+Nimbus Mono L
+Nimbus Roman No9 L
+Nimbus Sans L
+Norasi
+Noto Sans CJK JP
+Noto Sans CJK JP Bold
+Noto Sans CJK JP DemiLight
+Noto Sans CJK JP Light
+Noto Sans CJK JP Medium
+Noto Sans CJK JP Regular
+Noto Sans CJK JP Thin
+Noto Sans CJK KR
+Noto Sans CJK KR Light
+Noto Sans CJK KR Medium
+Noto Sans CJK KR Thin
+Noto Sans CJK KR Regular
+Noto Sans CJK SC
+Noto Sans CJK SC Black
+Noto Sans CJK SC Bold
+Noto Sans CJK SC Light
+Noto Sans CJK SC Thin
+Noto Sans CJK TC
+Noto Sans CJK TC Bold
+Noto Sans Mono CJK JP
+Noto Sans Mono CJK JP Regular
+Noto Sans Mono CJK KR
+Noto Sans Mono CJK KR Regular
+Noto Sans Mono CJK SC
+Noto Sans Mono CJK SC Bold
+Noto Sans Mono CJK TC
+Noto Sans Mono CJK TC Bold
+Purisa
+Sawasdee
+Symbola
+TakaoPGothic
+Tlwg Mono
+Tlwg Typewriter
+Tlwg Typist
+Tlwg Typo
+Ubuntu
+Ubuntu Condensed
+Ubuntu Mono
+Umpush
+URW Chancery L
+URW Gothic L
+URW Palladio L
